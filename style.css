@@ -1,0 +1,13 @@
+.attribution { font-size: 10px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.test { margin: 130px auto; font-family: "Times New Roman"; line-height: 1.6; padding: 24px; background-color: white; border-radius: 20px; width: 600px;}
+
+img { margin: 0 auto; border-radius: 8px; width: 100%; }
+
+body { background-color: rgb(219, 213, 206); }
+
+h2, h3 {color: hsl(0, 43%, 27%);}
+
+.prepare { background-color: rgb(253, 240, 242); padding: 15px; border-radius: 8px; }
